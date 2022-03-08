@@ -14,17 +14,3 @@ button{
     height: 50px;
     width: 50px;
 }
-
-/* function threeInARow(){
-       
-    if(gameBoard[0][0] != undefined &&(gameBoard[0][0] == gameBoard[0][1] && gameBoard[0][1] == gameBoard[0][2])) return true;
-    else if(gameBoard[1][0] != undefined &&(gameBoard[1][0] == gameBoard[1][1] && gameBoard[1][1] == gameBoard[1][2])) return true;
-    else if(gameBoard[2][0] != undefined &&(gameBoard[2][0] == gameBoard[2][1] && gameBoard[2][1] == gameBoard[2][2])) return true;
-    else if(gameBoard[0][0] != undefined &&(gameBoard[0][0] == gameBoard[1][0] && gameBoard[1][0] == gameBoard[2][0])) return true;
-    else if(gameBoard[0][1] != undefined &&(gameBoard[0][1] == gameBoard[1][1] && gameBoard[1][1] == gameBoard[2][1])) return true;
-    else if(gameBoard[0][2] != undefined &&(gameBoard[0][2] == gameBoard[1][2] && gameBoard[1][2] == gameBoard[2][2])) return true;
-    else if(gameBoard[0][0] != undefined &&(gameBoard[0][0] == gameBoard[1][1] && gameBoard[1][1] == gameBoard[2][2])) return true;
-    else if(gameBoard[0][2] != undefined &&(gameBoard[0][2] == gameBoard[1][1] && gameBoard[1][1] == gameBoard[2][0])) return true;
-    else return false; 
-
-} */
